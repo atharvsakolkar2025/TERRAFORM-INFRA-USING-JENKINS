@@ -1,33 +1,4 @@
-Skip to content
-mayur-z
-tf-infra-jnkins
-Repository navigation
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-Files
-Go to file
-t
-main.tf
-tf-infra-jnkins
-/main.tf
-mayur-z
-mayur-z
-Initialize Terraform configuration for EKS cluster
-592a741
- · 
-5 hours ago
-tf-infra-jnkins
-/main.tf
 
-Code
-
-Blame
-114 lines (91 loc) · 3.27 KB
 terraform {
   required_version = ">= 1.3"
   required_providers {
